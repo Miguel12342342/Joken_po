@@ -25,7 +25,6 @@ O projeto foi desenvolvido com as seguintes tecnologias e pacotes principais:
 
 * **Flutter (v3.x.x)**
 * **Dart**
-* **Gerenciamento de Estado:** [Ex: `provider` | `flutter_bloc` | `riverpod`]
 * **Pacotes importantes:** [Ex: `lottie` para animações | `shared_preferences` para armazenamento local]
 
 ## 📸 Demonstração / Screenshots
@@ -77,9 +76,6 @@ Certifique-se de que você tem o **Flutter SDK** instalado e configurado em sua 
 
 ## 🤝 Contribuição
 
-Contribuições, issues e solicitações de novos recursos são bem-vindas!
-Sinta-se à vontade para verificar a [página de issues](LinkParaSuaPaginaDeIssues).
-
 1.  Faça um Fork do projeto.
 2.  Crie um Branch para sua feature (`git checkout -b feature/NovaFeature`).
 3.  Commit suas alterações (`git commit -m 'feat: Adiciona NovaFeature'`).
@@ -92,6 +88,6 @@ Distribuído sob a licença **MIT**. Veja o arquivo `LICENSE` para mais informa�
 
 ## 📧 Contato
 
-Seu Nome – [miguelpagy@gmail.com]
+email – [miguelpagy@gmail.com]
 
 Link do Projeto: [https://github.com/Miguel12342342/Joken_po]
