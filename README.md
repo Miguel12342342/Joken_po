@@ -1,5 +1,8 @@
 # Jonken Po
 
+<img src="images/joken_po.png" alt="Logo do App" width="200" height="150">
+
+
 **Um jogo simples e elegante de Pedra, Papel e Tesoura (Janken Po) construído com Flutter.**
 
 [![Linguagem](https://img.shields.io/badge/Language-Dart-blue.svg)](https://dart.dev/)
