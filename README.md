@@ -26,12 +26,6 @@ O projeto foi desenvolvido com as seguintes tecnologias e pacotes principais:
 * **Dart**
 * **Pacotes importantes:** 
 
-## 📸 Demonstração / Screenshots
-
-> Adicionar uma ou duas imagens ou um GIF animado do aplicativo em funcionamento melhora *muito* a apresentação profissional.
-
-*(Incluir aqui uma imagem ou link para um GIF demonstrando o aplicativo.)*
-
 ## ⚙️ Instalação e Configuração
 
 Siga os passos abaixo para ter uma cópia local do projeto rodando em sua máquina.
