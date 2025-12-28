@@ -10,14 +10,13 @@
 [![Licença](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) 
 ## 🌟 Visão Geral e Propósito
 
-Este projeto é uma implementação do clássico jogo 'Janken Po' (Rock-Paper-Scissors) desenvolvido em Flutter. Ele serve como um estudo de caso para [mencione o seu objetivo específico, ex: gerenciamento de estado (BLoC/Provider), animações customizadas, ou a arquitetura de código].
+Este projeto é uma implementação do clássico jogo 'Janken Po' (Rock-Paper-Scissors) desenvolvido em Flutter. Ele serve como um estudo de caso para  gerenciamento de estado.
 
 ## ✨ Funcionalidades
 
 * Jogabilidade simples contra uma Inteligência Artificial (IA).
 * Contador de pontuação para sessões de jogo.
 * Interface de usuário responsiva e intuitiva.
-* [**Substitua ou adicione funcionalidades específicas do seu projeto**]
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -25,7 +24,7 @@ O projeto foi desenvolvido com as seguintes tecnologias e pacotes principais:
 
 * **Flutter (v3.x.x)**
 * **Dart**
-* **Pacotes importantes:** [Ex: `lottie` para animações | `shared_preferences` para armazenamento local]
+* **Pacotes importantes:** 
 
 ## 📸 Demonstração / Screenshots
 
