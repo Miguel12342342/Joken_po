@@ -14,7 +14,8 @@ O projeto evolui de um único `StatefulWidget` monolítico para uma aplicação 
 
 ## Demonstração
 
-![Tela principal do Jonken Po](images/joken_po.png)
+<img width="497" height="860" alt="jokenpo alto nivel" src="https://github.com/user-attachments/assets/58251891-4f1d-4068-99d9-948c6ef66a20" />
+
 
 ---
 
